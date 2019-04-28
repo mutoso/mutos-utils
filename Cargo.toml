@@ -1,0 +1,16 @@
+[package]
+name = "mutos-utils"
+version = "0.1.0"
+description = "mutos System Utilities"
+
+homepage = "https://mutos.org"
+repository = "https://github.com/mutoso/mutos-utils"
+
+authors = ["Alastair Feille <me@alastair.se>"]
+
+license = "MPL-2.0"
+readme = "README.md"
+
+edition = "2018"
+
+[dependencies]
